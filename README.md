@@ -1,16 +1,12 @@
-## Hi there 👋
+ 
+### Hi there! 👋
 
-<!--
-**RahulSinghkarakoti/RahulSinghkarakoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Planmaster**  project.
+- 🌱 I’m currently learning **Next.js** and **TypeScript**.
+- 👯 I’m looking to collaborate on **React** and **full-stack MERN** projects.
+- 🤔 I’m looking for ideas for a SaaS project or an open-source contribution.
+- 💬 Ask me about **React, MERN stack, or web development** in general.
+- 📫 How to reach me: rahulsinghkarakoti28@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love traveling, exploring new tech stacks, and enjoy working out and cooking.
+ 
